@@ -1,0 +1,48 @@
+{
+  "name": "@local/deepseek-whale-maid",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "DeepSeek 蓝鲸女仆主题：深蓝海洋配色与鲸鱼娘同人贴纸轮换。",
+  "license": "MIT",
+  "keywords": [
+    "dsh",
+    "deepseek-harness",
+    "plugin",
+    "theme",
+    "whale",
+    "ui"
+  ],
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "assets/*.webp",
+    "src/client.js",
+    "scripts/build.mjs",
+    "README.md",
+    "LICENSE",
+    "LICENSE-ART.md",
+    "CREDITS.md"
+  ],
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
+  }
+}

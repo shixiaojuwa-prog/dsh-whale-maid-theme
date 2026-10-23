@@ -1,0 +1,9 @@
+node_modules/
+.candidates/
+.matte-src/
+.matte-view/
+.probe.log
+*.log
+.DS_Store
+Thumbs.db
+assets/source.png

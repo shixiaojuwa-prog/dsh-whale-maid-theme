@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Blue whale maid">
+  <defs>
+    <linearGradient id="dwm-icon-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f2a5c"/>
+      <stop offset="0.55" stop-color="#33488f"/>
+      <stop offset="1" stop-color="#6d8fe6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#dwm-icon-bg)"/>
+  <path d="M22 44c0 4 4 6 9 6 6 0 10-3 10-7 0-3-2-5-5-6" fill="none" stroke="#dbe6ff" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M16 34c0-8 7-14 16-14s16 6 16 14c0 3-2 5-5 5H21c-3 0-5-2-5-5z" fill="#fdfbf6"/>
+  <path d="M13 24c3 0 5 2 5 5v1c0 3-2 5-5 5v-3H9v-4h4z" fill="#fdfbf6" opacity="0.85"/>
+  <circle cx="27" cy="32" r="2.4" fill="#26315c"/>
+  <circle cx="39" cy="32" r="2.4" fill="#26315c"/>
+  <path d="M30 39c1.4 1.4 4.6 1.4 6 0" fill="none" stroke="#26315c" stroke-width="1.7" stroke-linecap="round"/>
+  <path d="M46 16l2 4.6 4.6 2-4.6 2-2 4.6-2-4.6-4.6-2 4.6-2z" fill="#f6c9d4"/>
+  <circle cx="17" cy="44" r="2.4" fill="#9db8f2" opacity="0.7"/>
+  <circle cx="23" cy="50" r="1.6" fill="#9db8f2" opacity="0.55"/>
+</svg>

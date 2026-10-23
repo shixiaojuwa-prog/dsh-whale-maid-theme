@@ -1,0 +1,3 @@
+- insert:
+    - id: deepseek-whale-maid
+      name: '@local/deepseek-whale-maid'
