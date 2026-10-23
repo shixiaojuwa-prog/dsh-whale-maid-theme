@@ -5,6 +5,14 @@
   "type": "module",
   "description": "DeepSeek 蓝鲸女仆主题：深蓝海洋配色与鲸鱼娘同人贴纸轮换。",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shixiaojuwa-prog/dsh-whale-maid-theme.git"
+  },
+  "homepage": "https://github.com/shixiaojuwa-prog/dsh-whale-maid-theme#readme",
+  "bugs": {
+    "url": "https://github.com/shixiaojuwa-prog/dsh-whale-maid-theme/issues"
+  },
   "keywords": [
     "dsh",
     "deepseek-harness",
