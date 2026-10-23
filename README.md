@@ -24,7 +24,7 @@
 
 1. 克隆本仓库到本机：
    ```bash
-   git clone https://github.com/<your-name>/<repo>.git
+   git clone https://github.com/shixiaojuwa-prog/dsh-whale-maid-theme.git
    ```
 2. 打开 DSH Web UI → 设置 → 插件 → 安装本地 bundle，选择仓库目录（包含 `package.json` 的那一层）。
    也可以在 Agent 里用 `plugin_manager` 工具的 `install_bundle` 指向该目录。
